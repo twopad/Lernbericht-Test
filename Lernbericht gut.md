@@ -28,3 +28,7 @@ Ich konnte mit der spontanen Aufgabe einen Block zu leiten gut umgehen.
 Die Kinder waren nicht immer direkt ruhig. 
 
 **VBV**: Damit die Kinder immer ruhig sind etwas anderes als ein Handzeichen benutzen, wie zum Beispiel mit einer Pfeife in die Menge pfeifen das die Aufmerksamkeit bei mir ist.
+
+
+
+https://youtube.com/shorts/Wp-3Eu4Hq9s?feature=share
