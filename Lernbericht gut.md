@@ -1,31 +1,30 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Julian Wartnebold
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Damit ich ich in der Jubla Leiter werden konnte, musste ich im Sommerlager einen Block übernehmen und leiten.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt wie man eine grosse Gruppe, mit kleinen Kindern, dazu bringt ruhig zu sein, so dass sie mir zuhöhren.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+In den Sommerferien ging ich in das Sommerlager der Jubla. Weil ich Leiter werden will, muss ich in einem Lager einen Block übernehmen. Ich habe dann von den Leitern spontan Bescheid bekommen das ich nach dem Mittag einen Block übernehmen muss, der von jemand anderem geplant war. Den Block habe ich dann über den Mittag kurz studiert, so dass ich wusste, was sich die Person beim Schreiben dieses Blocks vorgestellt hat. Im Block mussten wir die Zelte aufbauen, worin die Kinder dann Schlafen sollten. Ich habe ihnen erklärt was zu machen war und wie. Damit sie mir zuhörten konnte ich durch ein Hand Signal zur Ruhe bringen.
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![grafik](https://user-images.githubusercontent.com/110892623/184816366-d6fa57a6-466c-4ca7-9ed1-09eb4eee6743.png)
+
+https://youtube.com/shorts/Wp-3Eu4Hq9s?feature=share
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Auf dem Bild und auf dem Video ist zu sehen wie die Kinder mir zuhören und meine Anweisungen befolgen.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich konnte mit der spontanen Aufgabe einen Block zu leiten gut umgehen.
 
-👎 und etwas, was nicht gut lief.
+Die Kinder waren nicht immer direkt ruhig. 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Damit die Kinder immer ruhig sind etwas anderes als ein Handzeichen benutzen, wie zum Beispiel mit einer Pfeife in die Menge pfeifen das die Aufmerksamkeit bei mir ist.
