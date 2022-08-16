@@ -1,5 +1,5 @@
 # Lern-Bericht
-Julian Wartnebold
+Julian Warnebold
 
 ## Einleitung
 
